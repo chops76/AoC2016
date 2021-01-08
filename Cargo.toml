@@ -1,10 +1,11 @@
 [package]
-name = "AoC2020"
+name = "aoc_2016"
 version = "0.1.0"
 authors = ["Dan <dchopskie@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+md-5 = "0.8"
 
 [profile.release]
 lto = true
