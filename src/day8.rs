@@ -101,13 +101,6 @@ pub fn main() {
     let p1_time = p1_timer.elapsed();
 	println!("Part 1: {}", p1_result);
 	println!("Part 1 Time: {:?}", p1_time);
-/*
-	let p2_timer = Instant::now();
-    let p2_result = part2(&sequences);
-    let p2_time = p2_timer.elapsed();
-	println!("Part 2: {}", p2_result);
-	println!("Part 2 Time: {:?}", p2_time);
-	*/
 }
 
 
